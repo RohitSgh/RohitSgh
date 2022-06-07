@@ -124,7 +124,7 @@ From India ♥. You can connect with me on [![LinkedIn][3.2]][3] or on [![Twitte
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitSgh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Statistics" />
 </a>
 <a href="https://github.com/RohitSgh/RohitSgh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSgh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSgh&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 
