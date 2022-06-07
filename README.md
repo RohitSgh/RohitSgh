@@ -2,7 +2,7 @@
 <!-- # [![header](link)](github.com/RohitSgh) -->
 
 
-# Rohit Singh
+# Hi, Rohit Singh here!
 
 <h3 align="center">Student from Blue Planet :)</h3>
 
