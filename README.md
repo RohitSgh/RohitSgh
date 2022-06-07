@@ -5,9 +5,9 @@
 
 
 
-# ⚡ Hi, Rohit Singh here!
+# ⚡ Hello Universe! 
 
-<h3 align="center">Student from Blue Planet :) 
+<h3 align="center">Rohit Singh, another student from Blue Planet :) 
  </h3>
 
 From India ♥. You can connect with me on [![LinkedIn][3.2]][3] or on [![Twitter][1.2]][1].
