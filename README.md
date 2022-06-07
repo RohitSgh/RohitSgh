@@ -51,13 +51,13 @@ I'm from India. You can connect with me on [![LinkedIn][3.2]][3] or on [![Twitte
 
 
 
-
+<!--
 
  ---
 
 
 
-<!-- #  🔧 Language and Technologies
+#  🔧 Language and Technologies
 <p align="left"> 
   
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
