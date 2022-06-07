@@ -30,7 +30,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="center">Let's Connect</h3>
+# Let's Connect
 <p align="center">
 
   <a href="https://dev.to/rohitsgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rohitsgh" height="30" width="40" /></a>
