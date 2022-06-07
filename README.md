@@ -2,11 +2,13 @@
 <!-- # [![header](link)](github.com/RohitSgh) -->
 
 
-# Hi, Rohit Singh here! <img src="https://raw.githubusercontent.com/RohitSgh/RohitSgh/master/earth.gif" width="30px" height="30px" />
-
+# Hi, Rohit Singh here!
 
 <h3 align="center">Student from Blue Planet :) 
  </h3>
+
+<p align="left"> I'm from India. You can find me on [![Twitter][1.2]][1], [![StackOverflow][3.3]][4]  or on [![LinkedIn][3.2]][3].
+ </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsgh&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsgh" /> </p>
 
@@ -94,3 +96,24 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsgh&show_icons=true&locale=en" alt="rohitsgh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsgh&" alt="rohitsgh" /></p>
+
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.3]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/iRohitSgh
+[2]: https://github.com/RohitSgh
+[3]: https://www.linkedin.com/in/iRohitSgh
+[4]: https://stackexchange.com/users/21501569/rohit-singh?tab=accounts
