@@ -32,6 +32,9 @@ I'm from India. You can connect with me on [![LinkedIn][3.2]][3] or on [![Twitte
 <!-- BLOG-POST-LIST:END -->
 <br><br><br>
 
+ ---
+
+
 # 🤝🏻 Let's Connect
 <p align="center">
 
@@ -49,7 +52,10 @@ I'm from India. You can connect with me on [![LinkedIn][3.2]][3] or on [![Twitte
 
 
 
-<br><br><br>
+
+ ---
+
+
 
 <!-- #  🔧 Language and Technologies
 <p align="left"> 
@@ -99,7 +105,10 @@ I'm from India. You can connect with me on [![LinkedIn][3.2]][3] or on [![Twitte
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 -->
 
-<br><br><br>
+
+ ---
+
+
 
 
 #  📔 Summary
