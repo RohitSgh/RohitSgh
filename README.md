@@ -2,10 +2,10 @@
 <!-- # [![header](link)](github.com/RohitSgh) -->
 
 
-# Hi, Rohit Singh here!
+# Hi, Rohit Singh here! <img src="https://raw.githubusercontent.com/RohitSgh/RohitSgh/master/earth.gif" width="30px" height="30px" />
 
-<h3 align="center">Student from Blue Planet :) <img src="https://raw.githubusercontent.com/RohitSgh/RohitSgh/master/earth.gif" width="30px" height="30px" />
 
+<h3 align="center">Student from Blue Planet :) 
  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsgh&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsgh" /> </p>
@@ -41,7 +41,7 @@
 <a href="https://www.leetcode.com/rohitsgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitsgh" height="30" width="40" /></a>-->
 </p>
 
-<!-- <h3 align="left">Languages and Tools</h3>
+<!-- # Languages and Tools
 <p align="left"> 
   
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
