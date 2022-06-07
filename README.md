@@ -8,15 +8,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsgh&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsgh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsgh" alt="rohitsgh" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsgh" alt="rohitsgh" /></a> </p>-->
 
 <p align="left"> <a href="https://twitter.com/irohitsgh" target="blank"><img src="https://img.shields.io/twitter/follow/irohitsgh?logo=twitter&style=for-the-badge" alt="irohitsgh" /></a> </p>
+
+<!--- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+
+- 💬 Ask me about **react, vue and gsap**
+
+- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)-->
 
 - 📝 I help the community on [StackExchange](https://stackexchange.com/users/21501569/rohit-singh?tab=accounts)
 
 - 📫 You can mail me on **rohitsinghsays21@gmail.com**
 
-- ⚡ Fun Fact **()() isn't Palindrome!**
+- ⚡ Fun Fact :  **()() isn't Palindrome!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
