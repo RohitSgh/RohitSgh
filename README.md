@@ -2,7 +2,7 @@
 <!-- # [![header](link)](github.com/RohitSgh) -->
 
 
-# Hi, Rohit Singh here!
+# ⚡ Hi, Rohit Singh here!
 
 <h3 align="center">Student from Blue Planet :) 
  </h3>
@@ -100,10 +100,10 @@ I'm from India. You can find me on [![LinkedIn][3.2]][3] or on [![Twitter][1.2]]
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 -->
 
+<br><br><br>
 
 
-
-
+#  📔 Summary
 
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitsgh&show_icons=true&locale=en&layout=compact" alt="rohitsgh" /></p>-->
@@ -114,7 +114,7 @@ I'm from India. You can find me on [![LinkedIn][3.2]][3] or on [![Twitter][1.2]]
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSgh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/RohitSgh/RohitSgh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Statistics" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitSgh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Statistics" />
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsgh&" alt="rohitsgh" /></p>
