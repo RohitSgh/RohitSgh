@@ -35,7 +35,7 @@ I'm from India. You can connect with me on [![LinkedIn][3.2]][3] or on [![Twitte
 
 **📫 MAIL :** rohitsinghsays21@gmail.com
 
-**⚡ FUN FACT:**  ()() isn't Palindrome!**
+**⚡ FUN FACT:**  ()() isn't Palindrome!
 
 📝 I help the community on [StackExchange](https://stackexchange.com/users/21501569/rohit-singh?tab=accounts)
 
