@@ -4,7 +4,8 @@
 
 # Hi, Rohit Singh here!
 
-<h3 align="center">Student from Blue Planet :) <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Rotating_earth_animated_transparent.gif" width="30px" height="30px" />
+<h3 align="center">Student from Blue Planet :) <img src="https://raw.githubusercontent.com/RohitSgh/RohitSgh/master/earth.gif" width="30px" height="30px" />
+
  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsgh&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsgh" /> </p>
