@@ -7,8 +7,7 @@
 <h3 align="center">Student from Blue Planet :) 
  </h3>
 
-I'm from India. You can find me on [![LinkedIn][3.2]][3] or on [![Twitter][1.2]][1].
-
+I'm from India. You can connect with me on [![LinkedIn][3.2]][3] or on [![Twitter][1.2]][1].
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsgh&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsgh" /> </p>
 
@@ -116,6 +115,7 @@ I'm from India. You can find me on [![LinkedIn][3.2]][3] or on [![Twitter][1.2]]
 <a href="https://github.com/RohitSgh/RohitSgh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitSgh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Statistics" />
 </a>
+<br><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsgh&" alt="rohitsgh" /></p>
 
