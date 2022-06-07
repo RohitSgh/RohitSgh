@@ -7,7 +7,7 @@
 <h3 align="center">Student from Blue Planet :) 
  </h3>
 
-I'm from India. You can find me on [![Twitter][1.2]][1], [![StackOverflow][3.3]][4]  or on [![LinkedIn][3.2]][3].
+I'm from India. You can find me on [![LinkedIn][3.2]][3] or on [![Twitter][1.2]][1].
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsgh&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsgh" /> </p>
