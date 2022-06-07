@@ -31,8 +31,9 @@ I'm from India. You can find me on [![LinkedIn][3.2]][3] or on [![Twitter][1.2]]
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<br><br><br>
 
-# Let's Connect
+# 🤝🏻 Let's Connect
 <p align="center">
 
   <a href="https://dev.to/rohitsgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rohitsgh" height="30" width="40" /></a>
@@ -43,7 +44,15 @@ I'm from India. You can find me on [![LinkedIn][3.2]][3] or on [![Twitter][1.2]]
 <a href="https://www.leetcode.com/rohitsgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitsgh" height="30" width="40" /></a>-->
 </p>
 
-<!-- # Languages and Tools
+
+
+
+
+
+
+<br><br><br>
+
+<!-- #  🔧 Language and Technologies
 <p align="left"> 
   
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -91,11 +100,30 @@ I'm from India. You can find me on [![LinkedIn][3.2]][3] or on [![Twitter][1.2]]
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 -->
 
+
+
+
+
+
+
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitsgh&show_icons=true&locale=en&layout=compact" alt="rohitsgh" /></p>-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsgh&show_icons=true&locale=en" alt="rohitsgh" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsgh&show_icons=true&locale=en" alt="rohitsgh" /></p>-->
+
+<a href="https://github.com/RohitSgh/RohitSgh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSgh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/RohitSgh/RohitSgh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Statistics" />
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsgh&" alt="rohitsgh" /></p>
+
+
+
+
+
+
 
 
 <!-- icons with padding -->
