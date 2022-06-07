@@ -28,20 +28,15 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Let's Connect</h3>
-<p align="left">
+<h3 align="center">Let's Connect</h3>
+<p align="center">
 
   <a href="https://dev.to/rohitsgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rohitsgh" height="30" width="40" /></a>
-
   <a href="https://twitter.com/irohitsgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irohitsgh" height="30" width="40" /></a>
-
   <a href="https://linkedin.com/in/irohitsgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irohitsgh" height="30" width="40" /></a>
-
   <a href="https://stackoverflow.com/users/15845697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15845697" height="30" width="40" /></a>
-
   <!--<a href="https://kaggle.com/rohitsgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohitsgh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohitsgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitsgh" height="30" width="40" /></a>-->
-
 </p>
 
 <!-- <h3 align="left">Languages and Tools</h3>
