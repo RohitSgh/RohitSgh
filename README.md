@@ -16,7 +16,7 @@ From India ♥. You can connect with me on [![LinkedIn][3.2]][3] or on [![Twitte
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsgh" alt="rohitsgh" /></a> </p>-->
 
-<p align="left"> <a href="https://twitter.com/irohitsgh" target="blank"><img src="https://img.shields.io/twitter/follow/irohitsgh?logo=twitter&style=for-the-badge" alt="irohitsgh" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/irohitsgh" target="blank"><img src="https://img.shields.io/twitter/follow/irohitsgh?logo=twitter&style=for-the-badge" alt="irohitsgh" /></a> </p>-->
 
 <!--- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
