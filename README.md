@@ -44,15 +44,14 @@ rohitsinghsays21@gmail.com
 
 <details>
   <summary><b>RANDOM QUOTE [Click to Read]</b></summary>
-
+  
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+</details>  
 
-</details>
-
+> [![Text](https://readme-typing-svg.herokuapp.com?font=Marvel&weight=1600&size=16&duration=3000&pause=30&color=247DA4&center=false&vCenter=false&width=500&lines=Quote+WILL+Change;World+WILL+Change;Learning+IS+the+ONLY+CONSTANT;Therefore%2C+STUDENT+forEver!)](https://git.io/typing-svg)
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
-[![Text](https://readme-typing-svg.herokuapp.com?font=Marvel&weight=900&size=25&duration=3000&pause=30&color=247DA4&center=false&vCenter=true&width=500&lines=Quote+WILL+Change;World+WILL+Change;Learning+IS+the+ONLY+CONSTANT;Therefore%2C+STUDENT+forEver!)](https://git.io/typing-svg)
 
-</br></br>
+</br>
 
 # 🤝🏻 **Profiles**
 
@@ -113,10 +112,10 @@ Quick Way
 
 <table align = "center">
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=RohitSgh&count_private=true&hide=stars&show_icons=true&theme=vue-dark&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RohitSgh&count_private=true&hide=stars&show_icons=true&theme=vue-dark"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSgh&hide_progress=trueshow_icons=true&theme=vue-dark&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSgh&hide_progress=trueshow_icons=true&theme=vue-dark"/>
 </td>
 </table>
 
@@ -124,16 +123,19 @@ Quick Way
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsgh&theme=vue-dark" />
-</p>
 
 </br>
+</br>
 
-<img align = "center" src="https://profile-counter.glitch.me/rohitsgh/count.svg" />
+<img align="center" src="https://profile-counter.glitch.me/rohitsgh/count.svg" />
 </h2>
 
 </br>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</p>
+
+
+<img align = "center" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsgh" alt="rohitsgh" /></a> </p> -->
