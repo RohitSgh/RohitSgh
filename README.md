@@ -5,17 +5,10 @@
 
 <h3 align="center">Another <i>Homo sapien</i> from Blue Planet 👋🏼</h3>
 
-<p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%0000&center=true&vCenter=true&lines=Text+will+change!;World+will+change!;Therefore,+student+forEver; "></a>
-</p>
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Student;Content+Creator;)](https://git.io/typing-svg) -->
-
 **From India ❤️**   
 Connect with me on [<i class="fa fa-linkedin-square" style="font-siz:34px" color="black"></i>](https://www.linkedin.com/in/iRohitSgh) and on [<i class="fa fa-twitter-square" style="font-siz:34px" color="black"></i>](https://twitter.com/iRohitSgh)
 
 </br>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsgh&label=Github+Profile+Impressions&color=0000FF&style=plastic" alt="Profile Views" /> </p>
 
@@ -48,11 +41,16 @@ rohitsinghsays21@gmail.com
 <!--- **📝 PASSION :** Love to help the community on [StackExchange](https://stackexchange.com/users/21501569/rohit-singh?tab=accounts) --->
 
 </br>
+
 <details>
-  <summary><b>RANDOM QUOTE</b></summary>
-  
+  <summary><b>RANDOM QUOTE [Click to Read]</b></summary>
+
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
-  </details>
+
+</details>
+
+<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+[![Text](https://readme-typing-svg.herokuapp.com?font=Marvel&weight=900&size=25&duration=3000&pause=30&color=247DA4&center=false&vCenter=true&width=500&lines=Quote+WILL+Change;World+WILL+Change;Learning+IS+the+ONLY+CONSTANT;Therefore%2C+STUDENT+forEver!)](https://git.io/typing-svg)
 
 </br></br>
 
