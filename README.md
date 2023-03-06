@@ -1,12 +1,11 @@
 <!--Remove Comment by removing -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 # 🌞 **Hello Universe!**
 
 <h3 align="center">Another <i>Homo sapien</i> from Blue Planet 👋🏼</h3>
 
 **From India ❤️**   
-Connect with me on [<i class="fa fa-linkedin-square" style="font-siz:34px" color="black"></i>](https://www.linkedin.com/in/iRohitSgh) and on [<i class="fa fa-twitter-square" style="font-siz:34px" color="black"></i>](https://twitter.com/iRohitSgh)
+Can connect with me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/iRohitSgh) or on [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/iRohitSgh).
 
 </br>
 
