@@ -107,11 +107,11 @@ Quick Way
 
 #  📊 **Statistics**
 
-<!-- Taken From https://github.com/RohitSgh/github-readme-stats -->
+<!-- Taken From https://github.com/anuraghazra/github-readme-stats -->
 
 <table align = "center">
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=RohitSgh&count_private=true&hide=stars&show_icons=true&theme=vue-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RohitSgh&count_private=true&hide=stars&hide_rank=true&show_icons=true&theme=vue-dark"/>
 </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSgh&hide_progress=trueshow_icons=true&theme=vue-dark"/>
