@@ -31,7 +31,7 @@ Can connect with me on [![LinkedIn](https://raw.githubusercontent.com/MartinHein
 Reading, Writing and Observing :)
 
 **📧 MAIL**   
-rohitsinghsays21@gmail.com
+rohitsinghsays21 [at] gmail [dot] com
 
 **<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" /> FUN FACT**   
 ()() isn't Palindrome!  
