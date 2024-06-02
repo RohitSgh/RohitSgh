@@ -2,10 +2,10 @@
 
 # 🌞 **Hello Universe!**
 
-<h3 align="center">Another <i>Student</i> from Blue Planet 👋🏼</h3>
+<h3 align="center"><i>Lifelong Learner</i> from Blue Planet 👋🏼</h3>
 
 **From India ❤️**   
-Can connect with me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/iRohitSgh) or on [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/iRohitSgh).
+Can connect with me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/iRohitSgh) or on [![X](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/iRohitSgh).
 
 </br>
 
