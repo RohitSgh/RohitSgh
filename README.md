@@ -49,7 +49,7 @@ rohitsinghsays21 [at] gmail [dot] com
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 </details>  
 
-> [![Text](https://readme-typing-svg.herokuapp.com?font=Marvel&weight=1600&size=16&duration=3000&pause=30&color=247DA4&center=false&vCenter=false&width=500&lines=Quote+WILL+Change;World+WILL+Change;Learning+IS+the+ONLY+CONSTANT;Therefore%2C+STUDENT+forEver!)](https://git.io/typing-svg)
+> [![Text](https://readme-typing-svg.herokuapp.com?font=Marvel&weight=1600&size=16&duration=3000&pause=30&color=247DA4&center=false&vCenter=false&width=500&lines=Quote+WILL+Change;World+WILL+Change;Learning+IS+the+ONLY+CONSTANT;Therefore%2C+Lifelong+Learner!)](https://git.io/typing-svg)
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 
 </br>
