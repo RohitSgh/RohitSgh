@@ -4,10 +4,12 @@
 
 <h3 align="center"><i>Lifelong Learner</i> from Blue Planet 👋🏼</h3>
 
+<!--
 **From India ❤️**   
 Can connect with me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/iRohitSgh) or on [![X](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/iRohitSgh).
 
 </br>
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsgh&label=Github+Profile+Impressions&color=0000FF&style=plastic" alt="Profile Views" /> </p>
 
@@ -22,10 +24,10 @@ Can connect with me on [![LinkedIn](https://raw.githubusercontent.com/MartinHein
 
 **💻 LANGUAGES:** PHP, Ruby, Javascript, Typescript
 
-**💻 FRAMEWORKS:** Symfony, Ruby on Rails, Angular, React.JS, Next.JS -->
+**💻 FRAMEWORKS:** Symfony, Ruby on Rails, Angular, React.JS, Next.JS
 
-<!-- **💬 FAVORITE QUOTE**  
-*"The best way to find yourself is to lose yourself in service of others"* - Mahatma Gandhi -->
+**💬 FAVORITE QUOTE**  
+*"The best way to find yourself is to lose yourself in service of others"* - Mahatma Gandhi 
 
 **❤️ HOBBIES**   
 Reading, Writing and Observing :)
@@ -37,7 +39,7 @@ rohitsinghsays21 [at] gmail [dot] com
 ()() isn't Palindrome!  
 
 
-<!--- **📝 PASSION :** Love to help the community on [StackExchange](https://stackexchange.com/users/21501569/rohit-singh?tab=accounts) --->
+**📝 PASSION :** Love to help the community on [StackExchange](https://stackexchange.com/users/21501569/rohit-singh?tab=accounts) --->
 
 </br>
 
