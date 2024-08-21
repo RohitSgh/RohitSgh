@@ -6,10 +6,13 @@
 
 <!--
 **From India ❤️**   
-Can connect with me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/iRohitSgh) or on [![X](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/iRohitSgh).
+-->
+
+Can connect with me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/iRohitSgh) 
+
+<!-- or on [![X](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/iRohitSgh) -->
 
 </br>
--->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsgh&label=Github+Profile+Impressions&color=0000FF&style=plastic" alt="Profile Views" /> </p>
 
